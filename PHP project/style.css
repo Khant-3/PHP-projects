@@ -1,0 +1,32 @@
+.logo-txt{
+    background-color:black; 
+    color:darkorange; 
+    border:3px solid black; 
+    border-radius:5px;
+}
+.reg-f{
+    margin: 0 auto;
+    width: 20rem;
+}
+footer {
+    padding: 20px 0;
+    text-align: center;
+}
+.ft {
+    max-width: 1000px;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.ft a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: gold;
+}
+.ft a:hover{
+    margin: 0 10px;
+    text-decoration: none;
+    font: 20px bold;
+    color: white;
+}
+
